@@ -11,7 +11,7 @@ Sou estudante de Engenharia de Software no UNICEPLAC e estou em busca de aprimor
 
  <div>
 <a href="https://github.com/LuizmarCardozo">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LMRK1LL3R&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizmarCardozo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <div> 
