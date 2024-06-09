@@ -10,7 +10,7 @@ Sou estudante de Engenharia de Software no UNICEPLAC e estou em busca de aprimor
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="80" height="80" />
 
  <div>
-<a href="https://github.com/LMRK1LL3R">
+<a href="https://github.com/LuizmarCardozo">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LMRK1LL3R&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
