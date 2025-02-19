@@ -7,7 +7,10 @@ Sou estudante de Engenharia de Software no UNICEPLAC e estou em busca de aprimor
  
  ## Estou aprendendo as seguintes linguagens:
  
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="80" height="80" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="80" height="80" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="80" height="80"/>
+ <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuizmarCardozo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuizmarCardozo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
           
 
  <div>
