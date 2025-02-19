@@ -42,9 +42,3 @@ Sou estudante de Engenharia de Software no UNICEPLAC e estou em busca de aprimor
 <img align="left" height="300" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif"  />
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/LuizmarCardozo/LuizmarCardozo/output/snake.svg" alt="Snake animation" />
-
-###
