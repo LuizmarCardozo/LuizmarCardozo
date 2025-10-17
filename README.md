@@ -26,6 +26,7 @@ Sou estudante de Engenharia de Software no UNICEPLAC e estou em busca de aprimor
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"  height="50" alt="javascript logo" />
   <img width="12" />
+  
           
   
   
@@ -50,5 +51,9 @@ Sou estudante de Engenharia de Software no UNICEPLAC e estou em busca de aprimor
 ###
 
 <img align="left" height="300" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif"  />
+
+<img align="left" height="300" src="https://github.com/user-attachments/assets/29aa30d3-bfa1-4c53-89fd-2702264afef1" />
+
+
 
 ###
