@@ -50,6 +50,12 @@ Sou estudante de Engenharia de Software no UNICEPLAC e estou em busca de aprimor
 <a href="https://br.linkedin.com/in/luizmar-cardozo-de-moura-785698261" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div> 
 
+<a href=" " target="_blank" rel="noopener noreferrer">
+    <img loading="lazy" src="https://img.shields.io/badge/-Portf%C3%B3lio-000?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+</div>
+
+
 ###
 
 <table>
