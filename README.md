@@ -36,11 +36,13 @@ Sou estudante de Engenharia de Software no UNICEPLAC e estou em busca de aprimor
 
 ###
 
-<div>
-<a href="https://github.com/LuizmarCardozo">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizmarCardozo&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizmarCardozo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<div align="center">
+  <a href="https://github.com/LuizmarCardozo">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizmarCardozo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizmarCardozo&layout=compact&langs_count=7&theme=dracula" />
+  </a>
 </div>
+
 
 ###
 
