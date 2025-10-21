@@ -38,7 +38,7 @@ Sou estudante de Engenharia de Software no UNICEPLAC e estou em busca de aprimor
 
 <div align="center">
   <a href="https://github.com/LuizmarCardozo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizmarCardozo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizmarCardozo&show_icons=true&theme=dracula" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizmarCardozo&layout=compact&langs_count=7&theme=dracula" />
   </a>
 </div>
@@ -52,9 +52,14 @@ Sou estudante de Engenharia de Software no UNICEPLAC e estou em busca de aprimor
 
 ###
 
-<img align="left" height="300" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif"  />
+<table>
+  <tr>
+    <td><img height="300" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" /></td>
+    <td width="24"></td>
+    <td><img height="300" src="https://github.com/user-attachments/assets/29aa30d3-bfa1-4c53-89fd-2702264afef1" /></td>
+  </tr>
+</table>
 
-<img align="left" height="300" src="https://github.com/user-attachments/assets/29aa30d3-bfa1-4c53-89fd-2702264afef1" />
 
 
 
