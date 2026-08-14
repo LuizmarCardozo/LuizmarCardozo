@@ -35,7 +35,18 @@ Sou estudante de Engenharia de Software no UNICEPLAC e estou em busca de aprimor
 </div>
 
 ###
-
+<div align="center">
+  <a href="https://github.com/LuizmarCardozo">
+    <img
+      height="180em"
+      src="https://SEU-DOMINIO.vercel.app/api?username=LuizmarCardozo&show_icons=true&theme=dracula&hide_border=true"
+    />
+    <img
+      height="180em"
+      src="https://SEU-DOMINIO.vercel.app/api/top-langs/?username=LuizmarCardozo&layout=compact&langs_count=7&theme=dracula&hide_border=true"
+    />
+  </a>
+</div>
 
 ###
 
