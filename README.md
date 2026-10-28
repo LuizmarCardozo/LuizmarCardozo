@@ -48,7 +48,7 @@ Sou estudante de Engenharia de Software no UNICEPLAC e estou em busca de aprimor
   </a>
   <img width="10" /> <!-- espaçamento -->
 
-  <a href="https://luizmarcardozo.github.io/Portfolio/" target="_blank" rel="noopener noreferrer">
+  <a href="https://portfolioluizmar.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img loading="lazy" src="https://img.shields.io/badge/-Portf%C3%B3lio-%236C63FF?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </div>
