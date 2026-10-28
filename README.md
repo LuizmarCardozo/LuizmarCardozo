@@ -2,7 +2,7 @@ Bem vindo ao meu Github🤓
 
 Olá me chamo Luizmar
 
-Sou estudante de Engenharia de Software no UNICEPLAC e estou em busca de aprimorar minhas habilidades em diversas linguagens e tecnologias. Apaixonado por aprender e sempre empenhado em compartilhar conhecimento e crescer junto com a comunidade de desenvolvedores.
+Recém- formado em  Engenharia de Software na UNICEPLAC e estou em busca de aprimorar minhas habilidades em diversas linguagens e tecnologias. Apaixonado por aprender e sempre empenhado em compartilhar conhecimento e crescer junto com a comunidade de desenvolvedores.
 ###
 
 <div align="left">
